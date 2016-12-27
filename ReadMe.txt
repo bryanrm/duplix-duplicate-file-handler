@@ -1,9 +1,7 @@
-Duplix
-Duplicate File Handler
-======================
-Bryan R Martinez
-github.com/martineb1
-======================
+Duplix - Duplicate File Handler
+Written by: Bryan R. Martinez
+github.com/bryanrm
+===============================
 
 Introduction
 ------------
